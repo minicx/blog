@@ -46,3 +46,7 @@ javac命令
 +  -J<标记>                     直接将 <标记> 传递给运行时系统
 +  -Werror                    出现警告时终止编译
 +  @<文件名>                     从文件读取选项和文件名
+
+javac编译流程
+
+{% asset_img javac-pre.png javac %}
